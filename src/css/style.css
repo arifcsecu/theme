@@ -13,9 +13,9 @@
     /*height: 600px;*/
     /*width: 500px;*/
 /*}*/
-/*.login-header {*/
-    /*color: dodgerblue;*/
-    /*font-size: 3em;*/
-    /*text-align: center;*/
-    /*width: 100%;*/
-/*}*/
+.login-header {
+    color: dodgerblue;
+    font-size: 3em;
+    text-align: center;
+    width: 100%;
+}
